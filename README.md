@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ram-Baskaran
 - 👀 I’m interested in _Python programming_
 - 🌱 I’m currently learning _Python basics_
-- 💞️ I’m looking to collaborate on _Python coders_
+- 💞️ I’m looking to collaborate on _Python Programmers_
 - 📫 How to reach me _msgtoramkumar419@gmail.com_
 
 <!---
